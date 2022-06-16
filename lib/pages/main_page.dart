@@ -55,7 +55,7 @@ class _MainPageState extends State<MainPage> {
       FlutterVpn.disconnect();
     } else {
       FlutterVpn.simpleConnect(
-          "47.242.125.137", "myUserName", "myUserPass");
+          "47.242.163.123", "vpnuser", "ukXh2Mwb7JCAz7N6");
     }
     print("connect");
   }
